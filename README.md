@@ -1,10 +1,11 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 08: Fundamentos do React Native
+  Solução desafio 08: Fundamentos do React Native
 </h3>
 
-<blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
+<blockquote align="center"><a href="https://github.com/Rocketseat/gostack-template-fundamentos-react-native">Template para iniciar o desafio</a></blockquote>
+
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
